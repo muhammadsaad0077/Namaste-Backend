@@ -5,7 +5,11 @@ console.log("Sum Module executed");
     console.log(sum);
 }
 
- let myName = "Saad";
+calculateSum("Saad ", "Ahmad")
+
+ let myName = "ssss";
+ let length = 's';
+
 
 module.exports = {calculateSum,
    myName
