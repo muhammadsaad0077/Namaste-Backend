@@ -1,3 +1,28 @@
 Data from the file.
 
+SDLC of DevTinder
+
+- Requirements Gathering
+    login
+    signup
+    requests
+    connections
+    browse/feed
+
+- Tech Stack
+   react
+   node
+   express
+   mongodb
+
+- Database
+  User
+  requests
+
+
+- Restful API
+  /login   -post
+  /signup  -post
+  /requests  -get
+
 
